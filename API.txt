@@ -1,0 +1,10 @@
+POST {
+    "pizzaName": "The Demo Pizza",
+    "createdBy": "Lernantino",
+    "size": "Personal",
+    "toppings": [
+        "Sausage",
+        "Pepperoni",
+        "Cherry Peppers"
+    ]
+}
